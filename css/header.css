@@ -1,0 +1,35 @@
+#header{
+	position:fixed;
+	top:0px;
+	z-index:1;
+}
+
+#nav_ul{
+	list-style-type:none;
+	margin:0px;
+	padding:10px;
+	overflow:hidden;
+	text-align:center;
+}
+
+#nav_li{
+	display:inline-block;
+}
+
+#nav_a{
+	color:#ffffff;
+	text-decoration:none;
+	padding:8px;
+	
+}
+
+#nav_a:hover{
+	background-color:gray;
+}
+
+#nav_text{
+	font-family: 'Josefin Sans', sans-serif;
+	//font-weight:bold;
+	font-size:10pt;
+	letter-spacing:2;
+}
