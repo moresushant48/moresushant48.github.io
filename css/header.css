@@ -1,7 +1,7 @@
 #header{
 	position:fixed;
 	top:0px;
-	z-index:1;
+	z-index:0;
 }
 
 #nav_ul{
@@ -31,5 +31,5 @@
 	font-family: 'Josefin Sans', sans-serif;
 	//font-weight:bold;
 	font-size:10pt;
-	letter-spacing:2;
+	color:#ecf0f1;
 }

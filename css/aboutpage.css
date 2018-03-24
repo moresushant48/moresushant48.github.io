@@ -1,0 +1,30 @@
+#about_body{
+	background-color:#212121;
+	text-align:center;
+	height:100vh;
+	position:relative;
+	top:0px;
+}
+
+#about_profile_pic{
+	width:150px;	height:150px;
+	border-radius: 100px;
+	position: relative;
+	top:100px;
+}
+
+#about_hr{
+	width:60%;
+	position:relative;
+	top:140px;
+}
+
+#about_para{
+	font-family: 'Cherry Swash', cursive;
+	font-size:13pt;
+	position:relative;
+	top:150px;
+	left:25%;
+	color:#ecf0f1;
+	width:50%;
+}
