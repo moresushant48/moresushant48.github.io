@@ -4,6 +4,7 @@
 	height:100vh;
 	position:relative;
 	top:0px;
+	overflow:auto;
 }
 
 #about_profile_pic{
