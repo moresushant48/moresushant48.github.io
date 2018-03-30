@@ -1,8 +1,6 @@
 #footer_scroll_icon_div{
 	background: linear-gradient(to bottom, #212121 50%, #111111 50%);
 	height:100px;
-	vertical-align:middle;
-	line-height:100%;
 }
 
 #footer_scroll_icon{
