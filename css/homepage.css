@@ -37,6 +37,16 @@ body{
 	line-height:30px;
 }
 
+@media only screen and (max-width: 1080px) {
+	#title_text {
+		font-size:30pt;
+	}
+	
+	#title_desc{
+		font-size:16pt;
+	}	
+}
+
 #github_link{
 	position:relative;
 	top:60px;
